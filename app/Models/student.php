@@ -9,4 +9,4 @@ test('create student', function () {
         'dob' => '2003-10-01'
     ]);
     assertTrue($student->exists());
-});
+})
